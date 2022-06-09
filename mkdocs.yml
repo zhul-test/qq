@@ -1,0 +1,8 @@
+site_name: "qq"
+site_description: "qq"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
